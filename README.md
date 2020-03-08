@@ -1,3 +1,3 @@
 # PlatformGame
 
-Game similar to Mario. Can create levels using paint. Unfnished
+Game similar to Mario. Can create levels using paint. Unfinished
